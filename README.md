@@ -4,6 +4,12 @@ A Machine Learning regression project that predicts **Life Expectancy** using so
 
 This project explores the relationship between education, healthcare, economic status, and mortality indicators to determine the most influential factors affecting life expectancy and compares multiple regression models to identify the best-performing algorithm.
 
+##  Quick Access
+
+-  **Jupyter Notebook:** https://github.com/USERNAME/global-life-expectancy-prediction/blob/main/Life_Expectancy_Prediction.ipynb
+-  **Dataset:** https://github.com/USERNAME/global-life-expectancy-prediction/blob/main/Life_Expectancy.csv
+-  **Presentation:** : https://drive.google.com/file/d/146AM-EimODtmhTv6ypvE-vcHJuMUiGnQ/view?usp=sharing
+
 ---
 
 ##  Project Overview
