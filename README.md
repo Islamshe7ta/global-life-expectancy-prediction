@@ -6,9 +6,9 @@ This project explores the relationship between education, healthcare, economic s
 
 ##  Quick Access
 
--  **Jupyter Notebook:** https://github.com/USERNAME/global-life-expectancy-prediction/blob/main/Life_Expectancy_Prediction.ipynb
--  **Dataset:** https://github.com/USERNAME/global-life-expectancy-prediction/blob/main/Life_Expectancy.csv
--  **Presentation:** : https://drive.google.com/file/d/146AM-EimODtmhTv6ypvE-vcHJuMUiGnQ/view?usp=sharing
+-  **Jupyter Notebook:** https://github.com/Islamshe7ta/global-life-expectancy-prediction/tree/main/Notebooks
+-  **Dataset:** https://github.com/Islamshe7ta/global-life-expectancy-prediction/tree/main/data
+-  **Presentation:**  https://drive.google.com/file/d/146AM-EimODtmhTv6ypvE-vcHJuMUiGnQ/view?usp=sharing
 
 ---
 
