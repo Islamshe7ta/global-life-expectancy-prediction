@@ -313,8 +313,7 @@ Global-Life-Expectancy-Prediction/
 ├── images/
 │
 ├── README.md
-│
-└── requirements.txt
+
 ```
 
 ---
